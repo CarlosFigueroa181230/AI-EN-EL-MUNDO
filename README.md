@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+
 # IA en el mundo
 
 ## Autores
