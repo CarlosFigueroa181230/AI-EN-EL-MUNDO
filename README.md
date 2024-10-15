@@ -75,6 +75,7 @@ Juan Medina
 ## Regresar al Índice
 [Volver_al_indice][../README.md]
 
+
 # IA en el mundo
 
 ## Autores
@@ -182,5 +183,6 @@ Además, la IA ayuda a monitorear y predecir desastres naturales, reduciendo el 
 
 ## Regresar indice
 [Volver al indice](../Readme.md)
+
 
 
