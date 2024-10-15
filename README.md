@@ -41,7 +41,7 @@ Carlos Figueroa
 ## Regresar al Índice
 [Volver_al_indice][../README.md]
 
-# Ventajas y desventajas e la inteligencia artificial
+# Ventajas y desventajas de la inteligencia artificial
 
 En la actualidad la inteligencia artificial se ha convertido en una tegnologia muy influyente en varios campos como la salud, el trasporte y la vida cotidiana por su capacidad de automatizar actividades y procesar datos, por esta razon la inteligencia artificial a medida que pasa el tiempo se va comvirtiendo en una parte de nuestras vidas.
 
