@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # IA en el mundo
 
 ## Autores
@@ -164,5 +165,58 @@ Y llora durante toda la noche, teniendo que ir a la escuela debido a que eran ex
 ## Autor
 - Jorge Andres Gonzalez Figueroa
 
-## Regresar indice
-[Volver al indice](../Readme.md)
+#Capitulo ???: ¡El inicio de un nuevo fin!
+
+En un pequeño pueblo de toronto, donde las calles estan repletas de arboles y las casas son de colores calidos, habia una secundaria algo pequeña. 
+En este lugar, Gerard era un chico aunque era algo introvertido, siempre era alguien agradable asi que gracias a aquella carisma se habia rodeado de varios amigos, aunque apesar de eso solo tenia dos amigos cercanos Sara y Lucas, que lo comprendian y apoyaban, juntos ellos se las pasaban despues de la escuela.
+
+Gerard tenia una pareja,Helenam, una chica algo graciosa y de gran corazon. Se conocieron en clase mientras entre chiste y chiste se volvieron mas insemparables. Sin embargo, en estos meses, la relacion mostro cierto deterioro. Helena esta frustrada de que gerard no la tomaba enserio o no tenia ciertas acciones que a ella le gustaria que si tuviera.
+
+Una tarde, mientras el sol se estaba poniendo oscuro y las nubes avanzaban, Gerardn y Helena se encontraron en un parque. La conversacion surgio con normalidad, pero se desato una pelea entre ellos mismo.Helena, sintiendo que Gerard simplemente se estaba alejando, le lanzo preguntas sobre el futuro de ellos dos  y de su relacion mediante sollozos.
+
+"¿Que quieres conmigo?, ¿realmente me amas? porque a pesar de lo que dices tus acciones dicen lo contrario, ¿Accaso solo me estas usando?"
+
+Gerard, Al verse atrapado  en la situacion en la que estaba, y al desear no hacerle daño tomo la decision de cerrarse mas:
+
+"No se, Helena. Todo es tan complicado."
+
+Esto causo el efecto adverso, esto hizo que la situacion escalara y solo se estaban haciendo daño entre eellos.
+
+"Porque solo me das excusas, yo quiero que soluciones esto para volver a ser lo que soliamos ser" dijo Helena, entre frustraciones
+
+"Si tu no fueras tan insegura, estoy seguro de que esto funcionaria"-Exclamo Gerard.
+
+El al ver sus ojos fue un golpe contundente, porque ambos se amaban pero ambos sentian que las cosas no daban para mas, asi que gerard tomo la decision de marcharse para no seguir sufriendo esa discusion.
+
+En esa noche, en su habitacion. Lo atormentaba la idea de dejar su relacion con Helena. Se sento en el borde de la cama, sientiendo un peso en el silencio, a pesar de tener amigos y una pareja que lo amaban, se sentia mas solo q nunca.
+
+El sintio en su corazon como si helena se hubiera ido, en ese momento el mundo se detuvo para el. 
+
+Fue para la casa de Helena, con las esperanza de un pronto reconcilio de su relacio, es entonces cuando toca la puerta y abrio el hermano.
+
+"Disculpa, esta Helena"  dijo un preocupado Gerard
+
+"Si, claro pasa" dijo el hermano de helena
+
+Gerard, subiendo las escaleras dirigiendose a el cuarto de helena se encontro con un pequeño charco de sangre, se exalto bastante y abrio la puerta, y la vio retorciendose en el suelo.
+
+A lo que inmediantamente llamo a la ambulancia para que la trataran de salvar.
+
+"Emergencias, con que podemos colaborarte"-911
+
+"POR FAVOR, NECESITO UNA AMBULACIA URGENTEMENETE PARA XX#XX-XX"- dijo Gerard
+
+Despues de 5 mins llego la ambulacia, se llevo a helena y a gerard, mientras estaban en la ambulancia con una helena al borde del desmayo.
+
+"PERDONAME, ESTO ES MI CULPA, SOLO SI NO TE HUBIERA TRATADO DE ESA FORMA NO ESTARIAS EN ESTE ESTADO. PERDON PERDON PERDON" exclamo gerard.
+
+"No pasa nada, te perdono"-dijo Helena con sus pocas energias
+
+Y dandose el que seria su ultimo beso, helena se desamaya.
+
+Llegan a urgencias y se llaman de manera rapida a Helena, con un gerard conmocionado sigue esperando y gerard espera hasta las 3 am, que le dan los resultados de que la chica estaba muerta.
+
+Gerard, cae en llanto incandose al piso suplicando de que no fuera cierto, porque no podia creer que habia sido hasta esos momentos su pareja, se va a su casa.
+
+Y llora durante toda la noche, teniendo que ir a la escuela debido a que eran examenes finales, un desolado gerard no puede pensar no mas en lo sucedido.
+>>>>>>> Stashed changes
