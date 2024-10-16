@@ -1,3 +1,4 @@
+
 # LA IA EN EL HOGAR!
 
 
@@ -17,5 +18,4 @@ Carlos Figueroa
 
 ## Regresar al Índice
 [Volver al indice](../Readme.md)
-
 
