@@ -1,27 +1,4 @@
-# IA en el mundo
-
-## Autores
-- Carlos Figueroa
-- Jorge Gonzales
-- Gabriel Garavito
-- Juan Medina
-
-## Descripcion 
-Este libro hablara sobre como la ia ha impactado en este nuestro mundo
-
-## Indice
-
-# Introduccion
-Sean bienvenidos a el libro que les explicara mucho sobre la IA en especial como este ha revolucionado en el planeta 
-
-## Contenido
-A lo largo de este libro veremos las diferentes aplicaciones de la ia en el mundo
-
-## Regresar al indice
-[Volver_al_indice][../README.md]
-
 # LA IA EN EL HOGAR!
-
 
 
 En el mundo del hogar inteligente, es ampliamente reconocido que la mejor forma de gestionar las tareas domésticas es dejarlo todo para el último minuto.
@@ -39,7 +16,6 @@ Así que, si buscas una experiencia verdaderamente memorable en tu hogar, ¡la I
 Carlos Figueroa
 
 ## Regresar al Índice
-[Volver_al_indice][../README.md]
-
+[Volver al indice](../Readme.md)
 
 
